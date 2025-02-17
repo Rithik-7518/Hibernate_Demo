@@ -41,3 +41,11 @@ This project demonstrates **Hibernate ORM (Object-Relational Mapping)**, showcas
  ┣ 📜 hibernate.cfg.xml  
  ┣ 📜 pom.xml  
 
+---
+
+## 📫 **Let's Connect**  
+
+- 💼 LinkedIn: [Rithik S](https://www.linkedin.com/in/rithik-s-b6714224b)  
+- 📧 Email: rithikrosan7518@gmail.com  
+
+---
